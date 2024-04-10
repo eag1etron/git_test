@@ -1,0 +1,3 @@
+TOP git_test assignment.
+Get familiar with basic git commands and vscode.
+git status, git add "filename", git commit -m "commit msg".
